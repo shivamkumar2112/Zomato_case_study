@@ -1,4 +1,31 @@
 # Zomato Case Study
+## 📌 Project Description
+This project analyzes the Zomato restaurant dataset to explore restaurant ratings, cuisines, locations, and cost for various restaurants.  
+The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and insights to understand restaurant trends.
+
+---
+
+## 📁 Dataset
+The dataset and its description are available in the [`data/` folder](data/README.md).  
+Alternatively, the dataset can be accessed via this [Google Drive link] https://drive.google.com/file/d/1jVjQdt2WJpIKMKqZQDFt8133mfa0MFQK/view?usp=sharing.
+
+---
+
+## 🛠 Tools and Technologies Used
+- **Python**  
+- **pandas**, **numpy** for data cleaning and manipulation  
+- **matplotlib**, **seaborn** for data visualization  
+- **Jupyter Notebook** as the development environment  
+- **Git & GitHub** for version control  
+
+---
+
+## ▶️ How to Run
+1. Download the dataset from the `data/` folder or Google Drive link  
+2. Open `Zomato.ipynb` in Jupyter Notebook or Google Colab  
+3. Run all cells sequentially  
+
+---
 
 ## 🧠 Steps Covered in the Case Study
 
