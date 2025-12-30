@@ -1,4 +1,4 @@
-# Reataurant Market Analysis
+# Restaurant Market Analysis
 ## 📌 Project Description
 This project analyzes the Zomato restaurant dataset to explore restaurant ratings, cuisines, locations, and cost for various restaurants.  
 The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and insights to understand restaurant trends.
